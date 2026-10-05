@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 35 theses deep-dived and killed across 11 rounds, plus ~55 problems scored and rejected at scan level.**
+**Result so far: no idea has cleared the bar. 38 theses deep-dived and killed or reframed across 12 rounds, plus ~55 problems rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -75,3 +75,11 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | L. AI-native PLM | 4.8 (from 7.1) | Flow Engineering ($50M, Sequoia, $750M), SPREAD AI, CADDi; all incumbents shipped agents |
 
 **Lessons:** (1) "destination subsidy" kills migration plays; (2) AI-native money goes first to layers that avoid migration, not to new systems of record.
+
+## Round 12
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| W. Formally verified AI code | 3.8 | Axiom ($1.6B), Harmonic ($1.45B), Theorem, AWS Kiro; spec inference unsolved |
+| Z. Cross-channel agent-era trust (built on Vara's existing components) | 5.6 REFRAME | Pindrop BotStopper (Sep 2026) + AI voice consortium; DataDome/HUMAN/Kasada; buyers buy per channel |
+
+**Best wedge for these founders (not a winner, 14-day test only):** caller-verification + step-up API for AI voice front-doors (telecom/MVNO port-out & SIM swap, travel loyalty), sold direct and as a `verify_caller` tool inside Vapi/Retell. Uses all four existing Vara components. Expected ceiling $10-30M ARR unless it expands.
