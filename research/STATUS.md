@@ -114,3 +114,6 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | PLG mass-market scan (best: share button for AI-built tools 7.1, agent pick rate 7.0) | ≤7.1 | Bottom-up utilities get built by platforms/YC in a sprint |
 | Europe/Israel gaps (best: sovereignty exposure graph 7.0) | ≤7.0 | EU compliance startups fill gaps in 6-12 months; EU base = distribution, not moat |
 | P2. Search Console for being chosen by coding agents | 6.3 | Strongest why-now (Vercel >50% deploys by agents, Neon >80% DBs by agents) but Lightsage ($4M, Nexus, Sep 8), Amplifying, Armature, free Netlify AXIS; labs sell placement (OpenAI Sponsored Agents) |
+
+## Round 16 (first-principles synthesis)
+20 theses generated, 8 checked, 7 killed. Best: "UL for human training data" (behavioral-biometric proof of expert authorship + cross-vendor ban network for AI data vendors like Mercor/Surge/Scale) at 6.9 — fails market size (~$50M today), ROI clarity, access. Lesson: shared-data networks survive only where vendors are fragmented and a few concentrated buyers can mandate participation.
