@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 30 theses deep-dived and killed across 8 rounds, plus ~45 problems scored and rejected at scan level.**
+**Result so far: no idea has cleared the bar. 35 theses deep-dived and killed across 11 rounds, plus ~55 problems scored and rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -63,3 +63,15 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | Thesis | Avg | Cause of death |
 |---|---|---|
 | I. AI supply integrity / model-substitution attestation | 4.6 (orig bar 4.4) | Artificial Analysis Endpoint Accuracy Index (Aug 2026), Vals ($40M a16z), LMArena ($1.7B) own the neutral index; OpenRouter Auto Exacto and Kimi Vendor Verifier police resellers; confirmed harm is consumer (Anthropic/Perplexity class actions) or open-weight, with no B2B SLA disputes found; black-box proof is weak on closed APIs (no logprobs, quantization detection at chance, GhostPrint spoofing); TEE attestation is going native |
+
+## Rounds 9-11
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| K. Carfax for GPUs | 4.4 | Silicon Data ($30.5M, CME futures), American Compute appraisals, NVIDIA Fleet Intelligence + residual guarantees |
+| H. Human decision layer for agents | 4.9 | Built into Claude Code/Ramp/GitHub/Copilot; UiPath Action Center; HumanLayer pivoted away |
+| What breaks next (tenant API replica) | 6.4 | Same as T; incumbents fix strain within the quarter |
+| I. Model integrity attestation | 4.4 | Consumer-side harm only; Artificial Analysis, Vals AI; TEEs make it native |
+| VMware estate exit | 6.2 | "Destination subsidy": Red Hat/AWS/Nutanix give migration free |
+| L. AI-native PLM | 4.8 (from 7.1) | Flow Engineering ($50M, Sequoia, $750M), SPREAD AI, CADDi; all incumbents shipped agents |
+
+**Lessons:** (1) "destination subsidy" kills migration plays; (2) AI-native money goes first to layers that avoid migration, not to new systems of record.
