@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 41 theses deep-dived across 13 rounds plus an evidence audit; ~60 problems rejected at scan level. Highest after deep dive: 6.8 (KYI).**
+**Result so far: no idea has cleared the bar. 42 theses deep-dived across 15 rounds plus an evidence audit; ~95 problems rejected at scan level. Highest after deep dive: 6.8.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -107,3 +107,10 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 
 ## Round 14 (intermediary liability mandates)
 21 mandates scanned. Best: telco scam-liability evidence system under Australia's Scams Prevention Framework (6.6; AU market ~A$7.6M; venture-scale only as cross-sector claims clearinghouse), US voice-provider vetting under FCC proposed rules (6.2; rule not final). Liability on few giants gets absorbed in-house; liability on many small firms draws generic compliance vendors before go-live.
+
+## Round 15
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| PLG mass-market scan (best: share button for AI-built tools 7.1, agent pick rate 7.0) | ≤7.1 | Bottom-up utilities get built by platforms/YC in a sprint |
+| Europe/Israel gaps (best: sovereignty exposure graph 7.0) | ≤7.0 | EU compliance startups fill gaps in 6-12 months; EU base = distribution, not moat |
+| P2. Search Console for being chosen by coding agents | 6.3 | Strongest why-now (Vercel >50% deploys by agents, Neon >80% DBs by agents) but Lightsage ($4M, Nexus, Sep 8), Amplifying, Armature, free Netlify AXIS; labs sell placement (OpenAI Sponsored Agents) |
