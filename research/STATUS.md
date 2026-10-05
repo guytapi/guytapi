@@ -96,3 +96,4 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | AA. AI-attacker readiness | 5.5 | Strongest why-now of all; Horizon3 ($2B+, ~7K customers), XBOW, Pentera, Adaptive, Doppel; ~$680M raised in 11 months |
 
 **Note:** the AA helpdesk-impersonation test is folded into the round-12 caller-verification wedge as its sales motion (attack → deploy verify_caller → re-test).
+| Fraud layer for AI companies (free-tier/GPU abuse) — scan only | n/a | Real pain (7.4% of AI-company signups multi-account abuse; 6.2x growth), but Stripe Radar abuse prevention, Castle, WorkOS Radar, ShieldLabs already sell it |
