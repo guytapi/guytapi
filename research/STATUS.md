@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 40 theses deep-dived and killed or reframed across 13 rounds, plus ~60 problems rejected at scan level.**
+**Result so far: no idea has cleared the bar. 41 theses deep-dived across 13 rounds plus an evidence audit; ~60 problems rejected at scan level. Highest after deep dive: 6.8 (KYI).**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -97,3 +97,10 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 
 **Note:** the AA helpdesk-impersonation test is folded into the round-12 caller-verification wedge as its sales motion (attack → deploy verify_caller → re-test).
 | Fraud layer for AI companies (free-tier/GPU abuse) — scan only | n/a | Real pain (7.4% of AI-company signups multi-account abuse; 6.2x growth), but Stripe Radar abuse prevention, Castle, WorkOS Radar, ShieldLabs already sell it |
+
+## Evidence audit + KYI
+- Audit: 46 kills reviewed; 31 STRONG, 4 MIXED, 9 WEAK. Partial false negative: proof-of-origin + Vara AML stack, reframed to customs brokers (7.5 at audit).
+- KYI (know-your-importer for customs brokers, EO 14411): deep dive 6.8. Trigger verified but narrower (CTPAT brokers, foreign importers only) and Nov 30 is a rulemaking deadline, not compliance. Market small (US brokerage revenue ~$5.5B). GingerControl, Gaia, Veroot, Descartes a feature away.
+- Surviving version: "Highway for importers" — shared importer-identity network across brokers → sureties → EU platforms (EU deemed-importer liability 2028). 14-day test: LOIs from 2 brokers + 1 surety at $20K+, 3 brokers agree to shared matching, back-test finds 5+ high-risk importers.
+
+**Lesson:** look for new regulatory liability placed on intermediaries; this was the one area where a 4-month-old mandate still had no purpose-built vendor.
