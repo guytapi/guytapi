@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 38 theses deep-dived and killed or reframed across 12 rounds, plus ~55 problems rejected at scan level.**
+**Result so far: no idea has cleared the bar. 39 theses deep-dived and killed or reframed across 12 rounds, plus ~55 problems rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -83,3 +83,8 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | Z. Cross-channel agent-era trust (built on Vara's existing components) | 5.6 REFRAME | Pindrop BotStopper (Sep 2026) + AI voice consortium; DataDome/HUMAN/Kasada; buyers buy per channel |
 
 **Best wedge for these founders (not a winner, 14-day test only):** caller-verification + step-up API for AI voice front-doors (telecom/MVNO port-out & SIM swap, travel loyalty), sold direct and as a `verify_caller` tool inside Vapi/Retell. Uses all four existing Vara components. Expected ceiling $10-30M ARR unless it expands.
+| A2. Living evidence-backed system map (built on Vara Architecture) | 5.7 REFRAME | Apiiro (material-change PR detection, AI threat modeling), Endor, Wiz Code; free DeepWiki/Code Wiki; platform team builds 70% in weeks |
+
+**Founder-edge wedges to test with real customers (neither is a winner):**
+1. Caller verification for AI voice front-doors (telecom/travel) — see round12/14_DAY_TEST_PLAN.md.
+2. System-level security & compliance diff of agent PRs for regulated mid-market fintech/healthtech (50-500 engineers): replay 100 past PRs at 2 design partners; pass = 3+ unknown findings each and 2 verbal $25K+ commitments.
