@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 28 theses deep-dived and killed across 8 rounds, plus ~45 problems scored and rejected at scan level.**
+**Result so far: no idea has cleared the bar. 30 theses deep-dived and killed across 8 rounds, plus ~45 problems scored and rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -49,3 +49,7 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | In-loop verification judge | 5.5 | Real gap, feature-sized |
 
 **New lesson (round 8):** agent platform teams at large companies now have real budgets. Any infra idea must pass "could that team build it in a sprint?". All 13 internal system types found fail it.
+| R. Applied Intuition for robots (policy eval) | 5.5 | Applied Intuition Dana (Jul 2026), NVIDIA Isaac Lab-Arena free, One Robot (YC/Accel), Robocurve, Instance |
+| G. Source control built for agents | 5.5 | Best-documented pain of all (GitHub 30x redesign, 257 incidents/yr). Pierre $23M (Lovable, Bolt), Cloudflare Artifacts, Entire (ex-GitHub CEO, $60M seed) mirror, Cursor Origin forge |
+
+**Lesson (G):** when an incumbent's infrastructure failure becomes public, specialist money arrives within weeks; by the time it reaches newsletters, the space is funded.
