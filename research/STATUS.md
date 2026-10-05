@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 39 theses deep-dived and killed or reframed across 12 rounds, plus ~55 problems rejected at scan level.**
+**Result so far: no idea has cleared the bar. 40 theses deep-dived and killed or reframed across 13 rounds, plus ~60 problems rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -88,3 +88,11 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 **Founder-edge wedges to test with real customers (neither is a winner):**
 1. Caller verification for AI voice front-doors (telecom/travel) — see round12/14_DAY_TEST_PLAN.md.
 2. System-level security & compliance diff of agent PRs for regulated mid-market fintech/healthtech (50-500 engineers): replay 100 past PRs at 2 design partners; pass = 3+ unknown findings each and 2 verbal $25K+ commitments.
+
+## Round 13
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| Forming categories via top-tier seeds (best: AI attacker emulation 6.5, plant shift engineer 6.2) | ≤6.5 | Once a top-tier round is public, the category has a leader |
+| AA. AI-attacker readiness | 5.5 | Strongest why-now of all; Horizon3 ($2B+, ~7K customers), XBOW, Pentera, Adaptive, Doppel; ~$680M raised in 11 months |
+
+**Note:** the AA helpdesk-impersonation test is folded into the round-12 caller-verification wedge as its sales motion (attack → deploy verify_caller → re-test).
