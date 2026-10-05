@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 25 theses killed across 6 rounds.**
+**Result so far: no idea has cleared the bar. 28 theses deep-dived and killed across 8 rounds, plus ~45 problems scored and rejected at scan level.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -38,3 +38,14 @@ The search continues; this file is the scoreboard.
 
 ## Implication
 Public-source research alone is unlikely to produce an idea that scores ≥8 on both "pain" and "competition position". The likely route to a winner is **proprietary insight**: founder access to a specific buyer group, or data from real customer conversations that public sources don't show. The research continues, but the founders should run the 14-day tests on the two or three best near-misses in parallel.
+
+## Rounds 7-8 (founder's pain-first method)
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| Q. Supplier product-data network | 4.6 | Assent ($1.3B) already sells supplier-side "answer once" + AI Request Manager; ~$55K/yr pain |
+| M. Model migration autopilot | 5.5 | rightmodeler, ZenML Kitaru, Datadog replay, LangWatch; free provider tools |
+| Test-suite steward (agent-written test rot) | 6.3 | Not a budget line; Trunk/Datadog/Launchable one feature away |
+| Minions-in-a-box (background coding-agent platform) | 5.7 | 14+ companies built it in-house, but Ona/Cursor/Codex/Devin/Tembo/Open-Inspect sell it |
+| In-loop verification judge | 5.5 | Real gap, feature-sized |
+
+**New lesson (round 8):** agent platform teams at large companies now have real budgets. Any infra idea must pass "could that team build it in a sprint?". All 13 internal system types found fail it.
