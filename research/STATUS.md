@@ -53,3 +53,8 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | G. Source control built for agents | 5.5 | Best-documented pain of all (GitHub 30x redesign, 257 incidents/yr). Pierre $23M (Lovable, Bolt), Cloudflare Artifacts, Entire (ex-GitHub CEO, $60M seed) mirror, Cursor Origin forge |
 
 **Lesson (G):** when an incumbent's infrastructure failure becomes public, specialist money arrives within weeks; by the time it reaches newsletters, the space is funded.
+
+## Round 9
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| H. Human decision layer (cross-vendor approvals/control tower) | 4.5 (orig bar 4.9) | HumanLayer deprecated its approvals SDK and pivoted; auto-approval native (Claude Code auto mode default Aug 14, Ramp Policy Agent, GitHub managed permissions Sep 9, Copilot Studio); cross-vendor routing in UiPath Action Center, ServiceNow AI Control Tower, Credal, Runlayer |
