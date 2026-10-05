@@ -58,3 +58,8 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 | Thesis | Avg | Cause of death |
 |---|---|---|
 | H. Human decision layer (cross-vendor approvals/control tower) | 4.5 (orig bar 4.9) | HumanLayer deprecated its approvals SDK and pivoted; auto-approval native (Claude Code auto mode default Aug 14, Ramp Policy Agent, GitHub managed permissions Sep 9, Copilot Studio); cross-vendor routing in UiPath Action Center, ServiceNow AI Control Tower, Credal, Runlayer |
+
+## Round 10
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| I. AI supply integrity / model-substitution attestation | 4.6 (orig bar 4.4) | Artificial Analysis Endpoint Accuracy Index (Aug 2026), Vals ($40M a16z), LMArena ($1.7B) own the neutral index; OpenRouter Auto Exacto and Kimi Vendor Verifier police resellers; confirmed harm is consumer (Anthropic/Perplexity class actions) or open-weight, with no B2B SLA disputes found; black-box proof is weak on closed APIs (no logprobs, quantization detection at chance, GhostPrint spoofing); TEE attestation is going native |
