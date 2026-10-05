@@ -24,3 +24,13 @@ AI code review, AI SRE, agent identity/NHI, Copilot oversharing, shadow-AI DLP, 
 - It is easy to understand (an investor gets it in one sentence) and directional (2027–2032 commerce shifts from humans to agents).
 - The buyer is revenue-side (the money comes in through it), not a cost center.
 - Main risks to test: (1) Is agent-originated B2B demand actually arriving now, or is it 2029? (2) Shopify/commercetools/Salesforce Commerce/SAP/UCP/ACP protocols. (3) Is the B2B part (contract pricing, credit terms, RFQs, approvals) really unsolved?
+
+## Round 1 outcome (Phase 5 deep research)
+| Thesis | Verdict | Avg score | Killer evidence |
+|---|---|---|---|
+| A. Selling to machine buyers | REFRAME/fail | ~5.4 | No measurable agent-originated B2B orders in 2026; plumbing absorbed by Salesforce, commercetools, TradeCentric UPOP |
+| B. AI spend control | KILL | ~5.6 | Ramp (Jul 2026), Anthropic/Copilot/Cursor native caps, Vantage/Datadog/ServiceNow; gateways acquired |
+| C. Agent Ctrl-Z / action ledger | KILL | ~4.6 | 5 backup incumbents shipped agent undo; Rubrik has only ~15 paying customers; AWS/Microsoft/ServiceNow bundle policy |
+| F. Citizen AI-app security | KILL | ~5.7 | Lovable/Replit ship governance; Pluto, Red Access, Zenity crowd it |
+
+**Lesson:** "control/visibility over AI" gets absorbed by platforms in months; "agentic commerce" is pre-demand. Round 2 searches for huge pain now + structural trend + one-sentence pitch: AI infra build-out, physical AI at scale, new AI budgets/jobs, AI replacing large labor pools.
