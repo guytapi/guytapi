@@ -104,3 +104,6 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 - Surviving version: "Highway for importers" — shared importer-identity network across brokers → sureties → EU platforms (EU deemed-importer liability 2028). 14-day test: LOIs from 2 brokers + 1 surety at $20K+, 3 brokers agree to shared matching, back-test finds 5+ high-risk importers.
 
 **Lesson:** look for new regulatory liability placed on intermediaries; this was the one area where a 4-month-old mandate still had no purpose-built vendor.
+
+## Round 14 (intermediary liability mandates)
+21 mandates scanned. Best: telco scam-liability evidence system under Australia's Scams Prevention Framework (6.6; AU market ~A$7.6M; venture-scale only as cross-sector claims clearinghouse), US voice-provider vetting under FCC proposed rules (6.2; rule not final). Liability on few giants gets absorbed in-house; liability on many small firms draws generic compliance vendors before go-live.
