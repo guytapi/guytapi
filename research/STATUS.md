@@ -165,3 +165,6 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 
 ## Round 24 (exploding OSS without a company)
 22 repos created after Jun 1 2026 have >15K stars; nearly all are coding-agent add-ons ("coding agent as general work engine"). Ten clusters mapped, all killed: codebase knowledge graphs (Graphify YC S26), token minimization, skills (Tessl), agent-made design/video, CLIs for API-less apps (Amazon WorkSpaces for agents, UiPath), local inference/voice, watermark stripping, agent memory, open decision models (TypeSafe Jev $40M seed). Lesson: OSS star spikes now lag too — viral repos are often the open alternative to an already-funded launch.
+
+## Round 25 (problems for platforms when agents act inside logged-in sessions)
+All killed (best 4.9). Liability moved to the user (Ninth Circuit, Aug 4 2026; agent ToS); fixes belong to agent vendors (Atlas patches, BrowseSafe); remaining needs map to crowded/killed categories (Visa/Mastercard Verifiable Intent, Prove, HUMAN, BioCatch, Chargeflow/Forter). Comet ran only ~185K sessions on Amazon.com by Jun 15.
