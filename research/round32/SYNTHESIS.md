@@ -137,3 +137,14 @@ Lesson: the method found the right pain, about 12 months late, because Stripe wa
 What survives: abuse *after* signup that Stripe doesn't see (cryptomining or proxy abuse in sandboxes, phishing hosted on generated sites, runaway agent token loops). Estimated ~7, unverified.
 
 **Round 32 result: no 8.5.** The best verified finalist is now F-B (eval/ground truth, 7.8 before verification, with a known weak opening).
+
+## Final verification results
+| Finalist | Pre-check | Verified | Killer |
+|---|---|---|---|
+| F-A compute fraud | 8.1 | 6.8 | Stripe Radar Sessions (May 2026), Verisoul, Stytch, Clerk |
+| F-A' runtime abuse after signup | ~7 | 5.9 | Guardio (built into Lovable), Netcraft, Abusix, Cinder; 100–300 buyers |
+| F-B eval / ground truth | 7.8 | 5.9 | Braintrust, LangSmith, Snorkel, Scale; hybrid builds on vendors; $0.1–1.5M addressable per company |
+| F-C forward-deployed implementation | 7.2 | not verified | vendors' core IP, small buyer pool |
+| F-D expert review queues | 7.0 | not verified | Scale/Surge/Mercor/Snorkel |
+
+**Round 32 result: no outcome A.** The company-level method found real repeated pains. But each one that is visible enough to show up across 5+ companies through public evidence (job posts, blogs) is also visible to vendors, who already serve it.
