@@ -224,3 +224,4 @@ Nine killed (deletion/DNT: Transcend; contract riders: Vanta, gateways; provider
 - Remaining finalists: eval/ground-truth operations 7.8, forward-deployed implementation 7.2, expert review queues 7.0, distillation 6.2.
 - Still no outcome A.
 - Verification: eval/ground truth fell from 7.8 to 5.9; runtime abuse 5.9 (killed). Round 32 ends with no outcome A.
+- Forward-deployed implementation fell from 7.2 to 5.9 (Sierra Ghostwriter, Decagon AOP Copilot, June, Interloom). Round 32 closed with no outcome A.

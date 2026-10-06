@@ -144,7 +144,7 @@ What survives: abuse *after* signup that Stripe doesn't see (cryptomining or pro
 | F-A compute fraud | 8.1 | 6.8 | Stripe Radar Sessions (May 2026), Verisoul, Stytch, Clerk |
 | F-A' runtime abuse after signup | ~7 | 5.9 | Guardio (built into Lovable), Netcraft, Abusix, Cinder; 100–300 buyers |
 | F-B eval / ground truth | 7.8 | 5.9 | Braintrust, LangSmith, Snorkel, Scale; hybrid builds on vendors; $0.1–1.5M addressable per company |
-| F-C forward-deployed implementation | 7.2 | not verified | vendors' core IP, small buyer pool |
+| F-C forward-deployed implementation | 7.2 | 5.9 | Sierra Ghostwriter, Decagon AOP Copilot, Harvey Workflow Builder; June ($20M), Interloom; vendors keep it as core IP |
 | F-D expert review queues | 7.0 | not verified | Scale/Surge/Mercor/Snorkel |
 
 **Round 32 result: no outcome A.** The company-level method found real repeated pains. But each one that is visible enough to show up across 5+ companies through public evidence (job posts, blogs) is also visible to vendors, who already serve it.
