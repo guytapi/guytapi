@@ -188,3 +188,17 @@ All killed (best 4.9). Liability moved to the user (Ninth Circuit, Aug 4 2026; a
 | Convergent theme: neutral record of what AI did for third parties | — | 5.4 | AIUC, AgentStatus, Armilla, Vanta/Drata, Kosli, Big Four, DocuSign; money goes to the signer |
 
 Round-20 B finalist slips to ~6.4 (DocuSign agent MCP GA Sep 30 2026). Next: run H4-H10 the same way.
+
+## Round 29 (H4-H10 pushed to the extreme, 3 roles each, + red team)
+| Thesis | Agent score | After red team | Cause of death |
+|---|---|---|---|
+| H4 Judgment ledger + router | 5.6 | — | GitLab Duo risk routing, CodeRabbit, GitHub Mission Control |
+| H5 Reality calibration for API twins | 5.6 | — | Arga ($10M GC), LocalStack+WonderTwin, Archal (YC), Vercel emulate |
+| H6 Tenant Compatibility Gate | 6.2 | 4.9 | Workday Release Impact Analysis, ServiceNow, Moesif/Optic; Tusk shut down |
+| H1+H6 merged "Hammer-as-a-service" | — | 4.6 | Opkey, Panaya (Infosys), Tricentis — 15-year-old category |
+| H7 Precedent engine / reasoning archive | 5.6 | — | Entire, Unblocked, native agent memory, Compliance APIs |
+| H8 Agent behavior release control | 5.4 | — | Microsoft APM/AgentRC free, LaunchDarkly AgentControl, Faros |
+| H9 Repro compiler | 5.8 | 4.6 | Sentry, Replay.io, Antithesis, Tonic, hoop.dev |
+| H10 Security kernel | 6.0 | — | Cursor Invariant Sentinel, Endor, DryRun, Arcjet, Oso |
+
+**Lesson:** every hidden failure from the discovery machine, pushed to its extreme, already has an owner one layer down as of Oct 2026. The round-20 counter-signature thesis remains the only outcome-B item (~6.4).
