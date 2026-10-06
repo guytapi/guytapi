@@ -205,3 +205,15 @@ Round-20 B finalist slips to ~6.4 (DocuSign agent MCP GA Sep 30 2026). Next: run
 
 ## Round 30 (new hidden failures H11-H20)
 Nine killed (deletion/DNT: Transcend; contract riders: Vanta, gateways; provider suspension/SLAs: providers and gateways; PoC bake-offs: Runloop; customer agents flooding vendors: no evidence; vendor agents' warehouse spend: FinOps; audit after model retirement: neutral-record kill). Weak B: H15 "delegated inference clearing" (customer's own model contract used by vendors, BYOK at enterprise scale), 6.2, ~10% — providers likely give it away. Round-20 counter-signature (~6.4) remains the best open item.
+
+## Round 31 (replacement theses: categories rebuilt because AI breaks a core assumption)
+6 tracks, 36 theses (best 6.9). Top 5 deep-dived with architect / skeptical CTO / VC / competitor roles:
+| Thesis | Track score | Deep dive | Cause of death |
+|---|---|---|---|
+| Verification fabric (CI rebuilt for agent change volume) | 6.9 | 5.75 | Blacksmith $550M, Depot CI, CloudBees Smart Tests, Nx, Trunk, GitHub price cuts |
+| Telemetry for machine readers (Datadog replacement) | 6.7 | 5.3 | Datadog MCP GA (22x tool calls), Grafana, ClickStack, Tsuga $35M |
+| Outcome desk (ServiceNow replacement) | 6.5-6.8 | 5.5 | Serval $1B, ServiceNow AI Control Tower, Agent 365 |
+| Commitment network between agents | 6.75 | 6.0 (sharpened 6.67 = round-20 B) | A2A v1.2, IETF PACT, LCP; no agent-to-agent demand data |
+| Platform for AI-built custom software (SaaS replacement) | 6.4 | 5.3 (narrow 6.2) | Replit Enterprise, Power Apps Vibe; core SoRs not turned off |
+
+**Lesson:** incumbents undermined by agents are rebuilding fast (Datadog, ServiceNow, Salesforce, Linear) and AI-native challengers are already funded. The round-20 counter-signature B (~6.4-6.7) remains the only open item.
