@@ -168,3 +168,7 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 
 ## Round 25 (problems for platforms when agents act inside logged-in sessions)
 All killed (best 4.9). Liability moved to the user (Ninth Circuit, Aug 4 2026; agent ToS); fixes belong to agent vendors (Atlas patches, BrowseSafe); remaining needs map to crowded/killed categories (Visa/Mastercard Verifiable Intent, Prove, HUMAN, BioCatch, Chargeflow/Forter). Comet ran only ~185K sessions on Amazon.com by Jun 15.
+
+## Round 26
+- Labor transition (redeployment, pre-layoff coverage verification, WARN, job architecture, apprenticeships): all killed (best 5.3). AI cited for layoffs fell to #4 in Aug 2026; 55% regret AI cuts; Gloat, Multiverse, Orgvue cover slices.
+- Money-flow intermediaries (13 flows): weak B (5.9, ~10-15%): data-center collateral desk for utility large-load tariffs (Switch $2.6B LC, Oracle >$7B collateral, Dominion $1.5M/MW); ~80-200 buyers, outside founder edge. Capital-heavy intermediary functions go to banks/sureties; software flows settle on platforms.
