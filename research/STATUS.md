@@ -159,3 +159,6 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 | Thesis | Avg | Cause of death |
 |---|---|---|
 | B+. System of record for everything agents agreed to | 4.5 | Stripe Projects logs ToS acceptance; WorkOS auth.md consent records; ConductAtlas/Nudge track terms; Okta/Keycard authority; pre-demand, ~tens of new agreements/company/month. Original B finalist remains stronger (6.5). |
+
+## Round 23 (weird directions)
+15 theses, 10 checked, 9 killed (ops-data licensing brokers, call-center real estate, payroll-rated insurance, AI-code provenance for M&A, inter-company agent workflow marketplaces, AI escrow, CU agent pooling, on-prem inference boxes, OSS triage). Weak B survivor (6.2, ~10-15% test-pass odds, outside founder edge): clearing network for stranded transformer/switchgear inventory and factory slots from delayed data-center projects.
