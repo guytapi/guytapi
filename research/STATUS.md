@@ -154,3 +154,8 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 | E. Horizontal proof-of-capture (4th independent appearance) | 5.8 | Truepic already horizontal with a cross-company Risk Network; Captur, Vaarhaft, Switch Labs at the cheap end; Apple Reference Image and Pixel C2PA make capture signing native |
 
 **Lesson:** an idea surfacing repeatedly from independent directions means the pain is real, not that the space is open; here it meant a funded horizontal incumbent already existed.
+
+## Round 22
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| B+. System of record for everything agents agreed to | 4.5 | Stripe Projects logs ToS acceptance; WorkOS auth.md consent records; ConductAtlas/Nudge track terms; Okta/Keycard authority; pre-demand, ~tens of new agreements/company/month. Original B finalist remains stronger (6.5). |
