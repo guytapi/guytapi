@@ -162,3 +162,6 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 
 ## Round 23 (weird directions)
 15 theses, 10 checked, 9 killed (ops-data licensing brokers, call-center real estate, payroll-rated insurance, AI-code provenance for M&A, inter-company agent workflow marketplaces, AI escrow, CU agent pooling, on-prem inference boxes, OSS triage). Weak B survivor (6.2, ~10-15% test-pass odds, outside founder edge): clearing network for stranded transformer/switchgear inventory and factory slots from delayed data-center projects.
+
+## Round 24 (exploding OSS without a company)
+22 repos created after Jun 1 2026 have >15K stars; nearly all are coding-agent add-ons ("coding agent as general work engine"). Ten clusters mapped, all killed: codebase knowledge graphs (Graphify YC S26), token minimization, skills (Tessl), agent-made design/video, CLIs for API-less apps (Amazon WorkSpaces for agents, UiPath), local inference/voice, watermark stripping, agent memory, open decision models (TypeSafe Jev $40M seed). Lesson: OSS star spikes now lag too — viral repos are often the open alternative to an already-funded launch.
