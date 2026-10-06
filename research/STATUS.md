@@ -1,6 +1,6 @@
 # War Room Status (2026-10-05)
 
-**Result so far: no idea has cleared the bar. 42 theses deep-dived across 15 rounds plus an evidence audit; ~95 problems rejected at scan level. Highest after deep dive: 6.8.**
+**Result so far: no idea has cleared the bar. ~55 theses deep-dived across 19 rounds plus an evidence audit and a failure taxonomy; ~130 problems rejected at scan level. Highest after deep dive: 6.9.**
 The search continues; this file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
@@ -117,3 +117,25 @@ Public-source research alone is unlikely to produce an idea that scores ≥8 on 
 
 ## Round 16 (first-principles synthesis)
 20 theses generated, 8 checked, 7 killed. Best: "UL for human training data" (behavioral-biometric proof of expert authorship + cross-vendor ban network for AI data vendors like Mercor/Surge/Scale) at 6.9 — fails market size (~$50M today), ROI clarity, access. Lesson: shared-data networks survive only where vendors are fragmented and a few concentrated buyers can mandate participation.
+
+## Round 17 (analyst categories, earnings calls)
+Best: capture-time provenance for warranty/claims evidence (6.5-6.7, found independently for the third time), data-contract enforcement (5.8). Lesson: analyst-named categories are already funded; earnings calls are a weak source of AI pain.
+
+## Round 18 (founder's new method: failure taxonomy + 35 first-principles theses)
+See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| AI deflation capture (SaaS rebuild + services contracts) | 6.0 | Sourcing advisors (ISG, UpperEdge, IDC) sell it on contingency; one-time revenue |
+| ProsperOps for AI commitments | 5.2 | AI spend counts against cloud commits; AI commitments non-transferable; Flexera bought ProsperOps |
+| Agent-speed procurement | 5.4 | Zip, Vanta, Runlayer, Microsoft Agent 365 cover each piece |
+| Agent-polluted product analytics | 5.2 | Snowplow, GA4, PostHog, Contentsquare; agents ~6-7% of logged-in activity |
+| Commitment ledger for customer-facing agents | 4.6 | Decagon Watchtower, Fin Monitors, Oversai, Isara; small dollars |
+
+## Round 19 (weak signals from round 18 kills)
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| Agent-provisioned resource sprawl | 4.8 | Big numbers are platform-owned DBs; Wiz, Nudge, Vercel EMU, Stripe Projects caps |
+| AI outbound TCPA consent | 5.0 | DNC.com MCP server, PossibleNOW, Gryphon, ActiveProspect; legal pressure easing |
+| AI notetaker transcript liability | 5.3 | Teams/Meet/Zoom block bots by default; Purview; Theta Lake, Nudge |
+
+**Lesson:** even victim-side and CFO-side problems are covered when they are publicly visible. Next: deliberately target outcome B (too early for public evidence, precise 14-day test).
