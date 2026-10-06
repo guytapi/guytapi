@@ -175,3 +175,16 @@ All killed (best 4.9). Liability moved to the user (Ninth Circuit, Aug 4 2026; a
 
 ## Round 27 (recent VC partner theses)
 16 items (transcripts not accessible), 5 in-window and actionable; none met "named partner says underbuilt + ≤2 funded players". Near-misses killed: AI ops layer for electrical subs on DC/battery builds (5.5; Rebar, Probook, XBuild, Procore), company-to-company agent handshake (5.4; duplicates round-20 B finalist, which remains the best open item).
+
+## Round 28 (founder method: push H1-H3 to the extreme; 9 role agents + red team)
+| Thesis | Agent score | After red team | Cause of death |
+|---|---|---|---|
+| H2 Intent Scheduler (admission/concurrency control for agent tasks) | 6.6 | 5.6 | Korso Shepherd (YC), Tether, Coordinaut, Augment Cosmos; GitHub Copilot agent merge |
+| H3 Undo Graph (reversibility ledger) | 6.5 | 5.6 | Datadog Bits Release, Liquibase/Harness, Neon checkpoints, Rubrik/Dolt; insurance-like purchase |
+| H3 Verified Uptime | 6.4 | 5.3 | Complaya/Pingoru SLA credits, Parametrix, Vanta, Kosli |
+| H1 Scoped contract graph for agent vendors | 6.2 | 5.5 | Top vendors build in-house; Braintrust, LaunchDarkly |
+| H1 Statistical release control | 6.3 | 5.5 | Handshake/Cleanlab, Armilla |
+| H1 Exception clearing / H2 labor ledgers / H3 black box | 5.9-6.1 | — | Humwork, Crescendo, AIUC; Jellyfish, DX; Kosli |
+| Convergent theme: neutral record of what AI did for third parties | — | 5.4 | AIUC, AgentStatus, Armilla, Vanta/Drata, Kosli, Big Four, DocuSign; money goes to the signer |
+
+Round-20 B finalist slips to ~6.4 (DocuSign agent MCP GA Sep 30 2026). Next: run H4-H10 the same way.
