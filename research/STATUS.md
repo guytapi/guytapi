@@ -217,3 +217,9 @@ Nine killed (deletion/DNT: Transcend; contract riders: Vanta, gateways; provider
 | Platform for AI-built custom software (SaaS replacement) | 6.4 | 5.3 (narrow 6.2) | Replit Enterprise, Power Apps Vibe; core SoRs not turned off |
 
 **Lesson:** incumbents undermined by agents are rebuilding fast (Datadog, ServiceNow, Salesforce, Linear) and AI-native challengers are already funded. The round-20 counter-signature B (~6.4-6.7) remains the only open item.
+
+## Round 32: company-level reconstruction (53 companies)
+- Studied 53 AI-native companies, found 15 pain clusters, picked 5 finalists (round32/SYNTHESIS.md).
+- The leader, fraud on AI compute, scored 8.1 before verification and 6.8 after: Stripe Radar Sessions (May 2026), Verisoul, Stytch and Clerk already serve the same companies.
+- Remaining finalists: eval/ground-truth operations 7.8, forward-deployed implementation 7.2, expert review queues 7.0, distillation 6.2.
+- Still no outcome A.

@@ -125,3 +125,15 @@ Clusters 1, 4, 5 and 6 match the requested shape: "we deployed AI, but now we ne
   1. Are there already AI-compute-specific fraud startups, or a Stripe/Cloudflare launch, that close the opening?
   2. Is abuse-burned compute really ≥5% of free-tier spend at more than a handful of companies?
 - F-B is the strongest "still building internally" signal (17 of 19), but vendors are well funded and the gap is service-heavy.
+
+## Post-verification update (VERIFY_compute_fraud.md)
+F-A drops from **8.1 to 6.8**. The pain is confirmed and larger than assumed: 1 in 6 AI signups are tied to multi-account abuse, and Anthropic disabled 1.45M accounts in H2 2025. But the opening is closed:
+- Stripe Radar Sessions (May 2026) covers trial and usage abuse on any processor, with a network graph; it saved ~$4.4M of compute across 4 AI companies in 2 months.
+- Verisoul (Series A) already serves Augment and Clay.
+- Stytch, Clerk and Vercel BotID already serve Replit and others.
+
+Lesson: the method found the right pain, about 12 months late, because Stripe watches the same signals across its network.
+
+What survives: abuse *after* signup that Stripe doesn't see (cryptomining or proxy abuse in sandboxes, phishing hosted on generated sites, runaway agent token loops). Estimated ~7, unverified.
+
+**Round 32 result: no 8.5.** The best verified finalist is now F-B (eval/ground truth, 7.8 before verification, with a known weak opening).
