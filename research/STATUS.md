@@ -139,3 +139,10 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 | AI notetaker transcript liability | 5.3 | Teams/Meet/Zoom block bots by default; Purview; Theta Lake, Nudge |
 
 **Lesson:** even victim-side and CFO-side problems are covered when they are publicly visible. Next: deliberately target outcome B (too early for public evidence, precise 14-day test).
+
+## Round 20 — first finalist under outcome B (conditional)
+**Counter-signature for machine-to-machine deals** (round20/outcome_B_candidates.md): an independent, auditor-grade record of who had authority, what terms bound both sides, and what was delivered, for supplier commitments made by agents across Keelvar, Pactum, Fairmarkit, Coupa and Ariba.
+- Qualifies as **outcome B** (genuinely early, no product sold yet, precise 14-day test), **not A** (6.5 on current evidence; estimated 15-20% chance the test passes).
+- Verified independently: AAA Legal Context Protocol (Jun 2026, Google/IBM/Circle/Integra Ledger); Keelvar reports ~71% of sourcing events run by AI agents. Supplier-side agent events (~1,420/month) come from Keelvar's white paper (search snippet).
+- Biggest threats: DocuSign (Deputy GC published the thesis Aug 27, 2026), buyer platforms' native ledgers, Integra Ledger productizing LCP.
+- Other B candidates failed: agent credit bureau (Experian Agent Registry, Visa/Mastercard/Ant KYA), supplier bid agents, B2B machine-customer front door, transferable AI capacity.
