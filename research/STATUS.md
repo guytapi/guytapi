@@ -1,7 +1,7 @@
 # War Room Status (2026-10-05)
 
-**Result so far (27 rounds): no idea reached outcome A (≥8.5). ~65 theses deep-dived, ~170 problems rejected at scan level, plus an evidence audit and a failure taxonomy. Highest after deep dive: 6.9. One conditional outcome-B finalist: counter-signed records for agent-to-agent deals (6.5) — see round20/outcome_B_candidates.md and round20/DISCOVERY_KIT.md.**
-The search continues; this file is the scoreboard.
+**Result after 30 rounds: no idea reached outcome A (≥8.5). ~105 theses deep-dived, ~200 problems rejected at scan level, plus an evidence audit, a failure taxonomy, a customer discovery machine and extreme-future analysis of H1-H20 with independent role agents and red teams. Highest after deep dive: 6.9. Best open item (outcome B, ~6.4): counter-signed records for agent-to-agent deals — round20/outcome_B_candidates.md and round20/DISCOVERY_KIT.md.**
+This file is the scoreboard.
 
 ## Scoreboard (all deep-dived theses)
 
