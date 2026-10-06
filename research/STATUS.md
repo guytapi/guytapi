@@ -146,3 +146,11 @@ See round18/FAILURE_TAXONOMY.md and THESES_35.md. 6 survivors, all killed:
 - Verified independently: AAA Legal Context Protocol (Jun 2026, Google/IBM/Circle/Integra Ledger); Keelvar reports ~71% of sourcing events run by AI agents. Supplier-side agent events (~1,420/month) come from Keelvar's white paper (search snippet).
 - Biggest threats: DocuSign (Deputy GC published the thesis Aug 27, 2026), buyer platforms' native ledgers, Integra Ledger productizing LCP.
 - Other B candidates failed: agent credit bureau (Experian Agent Registry, Visa/Mastercard/Ant KYA), supplier bid agents, B2B machine-customer front door, transferable AI capacity.
+
+## Round 21
+| Thesis | Avg | Cause of death |
+|---|---|---|
+| H2. API for agents to hire verified humans | 5.0 | RentAHuman (160K humans, 81 agents), 10+ horizontal players; Upwork/DoorDash/Uber open supply to agents directly |
+| E. Horizontal proof-of-capture (4th independent appearance) | 5.8 | Truepic already horizontal with a cross-company Risk Network; Captur, Vaarhaft, Switch Labs at the cheap end; Apple Reference Image and Pixel C2PA make capture signing native |
+
+**Lesson:** an idea surfacing repeatedly from independent directions means the pain is real, not that the space is open; here it meant a funded horizontal incumbent already existed.
