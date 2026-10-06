@@ -202,3 +202,6 @@ Round-20 B finalist slips to ~6.4 (DocuSign agent MCP GA Sep 30 2026). Next: run
 | H10 Security kernel | 6.0 | — | Cursor Invariant Sentinel, Endor, DryRun, Arcjet, Oso |
 
 **Lesson:** every hidden failure from the discovery machine, pushed to its extreme, already has an owner one layer down as of Oct 2026. The round-20 counter-signature thesis remains the only outcome-B item (~6.4).
+
+## Round 30 (new hidden failures H11-H20)
+Nine killed (deletion/DNT: Transcend; contract riders: Vanta, gateways; provider suspension/SLAs: providers and gateways; PoC bake-offs: Runloop; customer agents flooding vendors: no evidence; vendor agents' warehouse spend: FinOps; audit after model retirement: neutral-record kill). Weak B: H15 "delegated inference clearing" (customer's own model contract used by vendors, BYOK at enterprise scale), 6.2, ~10% — providers likely give it away. Round-20 counter-signature (~6.4) remains the best open item.
